@@ -36,4 +36,4 @@ Final-year BCA student at Srinivas University, Mangalore — specializing in bac
 
 - Email: shafeezchappi18@gmail.com
 - LinkedIn: [linkedin.com/in/mohamad-shafeez](https://linkedin.com/in/mohamad-shafeez)
-- Live Projects: [Cipher AI](https://cipher-voice-ai.netlify.app) · [Finance Dashboard](https://finance-dashboard95132.netlify.app)
+- Live Projects: [Cipher AI](https://cipher-voice-ai.netlify.app) · [safenav](https://safe-nav-pied.vercel.app/) · [Finance Dashboard](https://finance-dashboard95132.netlify.app)

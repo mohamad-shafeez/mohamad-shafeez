@@ -13,7 +13,7 @@ Final-year BCA student at Srinivas University, Mangalore — specializing in bac
 
 | Project | Description | Stack |
 |---|---|---|
-| [Cipher AI](https://github.com/mohamad-shafeez/Cipher-AI) | Offline AI voice assistant with Android ADB control | Python, Whisper, Ollama |
+| [Cipher OS](https://github.com/mohamad-shafeez/Cipher-AI) |  Built a local AI runtime for Windows that supports real-time voice interaction, AI task execution, and background automation. voice assistant with Android ADB control | Python, Ollama, Faster-Whisper, Silero VAD, multiprocessing, SQLite |
 | [SafeNav](https://github.com/mohamad-shafeez/SafeNav) | Travel safety PWA with AI risk scoring | Flask, Gemini, Firebase |
 | [Finance Dashboard](https://github.com/mohamad-shafeez/finance-dashboard) | Interactive finance tracker with RBAC | React, Recharts |
 | [Auction House](https://github.com/mohamad-shafeez/Auctin-House) | Real-time bidding platform | MERN, Socket.io |

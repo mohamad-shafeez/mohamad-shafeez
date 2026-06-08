@@ -41,6 +41,7 @@ Software Engineer focused on backend systems, AI runtimes, and real-time applica
 Building AI systems, backend platforms, developer tooling, and production-ready applications using Python, Node.js, Flask, React, MongoDB, MySQL, and modern AI technologies.
 
 Core Areas:
+
 • Backend Engineering
 • AI Systems & Local LLM Infrastructure
 • Real-Time Applications

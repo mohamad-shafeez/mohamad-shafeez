@@ -288,9 +288,7 @@ Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API
 
 <br/><br/>
 
-> ### *"I don't just build features — I engineer systems."*
-> *Actively seeking backend, full-stack, or AI/ML internship roles for 2026.*
-> *Interested in backend engineering, AI systems, developer infrastructure, and real-time applications. Feel free to connect through LinkedIn or reach out by email.*
+> ### *Interested in backend engineering, AI systems, developer infrastructure, and real-time applications. Feel free to connect through LinkedIn or reach out by email.*
 
 <br/>
 

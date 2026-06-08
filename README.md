@@ -6,21 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Building+fault-tolerant+AI+runtimes+%F0%9F%A4%96;Architecting+real-time+backend+systems+%E2%9A%A1;Orchestrating+local+multi-agent+LLM+workflows+%F0%9F%A7%A0;Open+to+Backend+%7C+Full-Stack+%7C+AI%2FML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Building+fault-tolerant+AI+runtimes+%F0%9F%A4%96;Architecting+real-time+backend+systems+%E2%9A%A1;Orchestrating+local+multi-agent+AI+workflows+%F0%9F%A7%A0;Designing+production-ready+software+systems+%F0%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Internships%202026-00d26a?style=for-the-badge&labelColor=0d1117&color=00d26a)
-&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Mangalore%2C%20India-%E2%86%92%20Bangalore%20%2F%20Remote-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8)
-&nbsp;
-![BCA](https://img.shields.io/badge/%F0%9F%8E%93%20BCA-Graduating%20May%202026-7dd3fc?style=for-the-badge&labelColor=0d1117&color=7dd3fc)
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/mohamad-shafeez">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
@@ -44,34 +36,23 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `About Me`
 
-```python
-class MohamadShafeez:
+Software Engineer focused on backend systems, AI runtimes, and real-time applications.
 
-    role        = "Backend Engineer & AI Systems Builder"
-    university  = "Srinivas University, Mangalore  —  BCA, Graduating May 2026"
-    location    = "Mangalore, India  →  Targeting Bangalore / Remote"
+I enjoy building fault-tolerant systems, local AI infrastructure, event-driven architectures, and production-ready web applications.
 
-    core_focus  = [
-        "Fault-tolerant concurrent AI runtimes & OS-level daemons",
-        "High-throughput backend APIs & real-time event-driven systems",
-        "Local LLM orchestration & multi-agent AI architectures",
-        "Cryptographic security, deterministic risk engines & PWA deployment",
-    ]
-
-    flagship    = "Cipher OS  —  an offline-first multi-agent AI operating daemon"
-    seeking     = "Backend · Full-Stack · AI/ML  Internships  (2026)"
-    contact     = "shafeezchappi18@gmail.com"
-
-    def __init__(self):
-        self.coffee_dependent = True
-        self.ships_production_code = True
-```
+Core Areas:
+• Backend Engineering
+• AI Systems & Local LLM Infrastructure
+• Real-Time Applications
+• Event-Driven Architectures
+• API Development & System Design
+• Automation & Developer Tooling
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; `## Projects`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; `Projects`
 
 <br/>
 
@@ -244,7 +225,7 @@ class MohamadShafeez:
 
 <br/>
 
-## 🛠️ &nbsp; `cat ./tech_stack.json`
+## 🛠️ &nbsp; `Technology Stack`
 
 <br/>
 
@@ -285,7 +266,7 @@ class MohamadShafeez:
 
 <br/>
 
-## 📊 &nbsp; `./stats --github`
+## 📊 &nbsp; `Engineering Focus`
 
 <br/>
 
@@ -307,7 +288,7 @@ class MohamadShafeez:
 
 <br/>
 
-## 📬 &nbsp; `cat ./contact.txt`
+## 📬 &nbsp; `Contact`
 
 <br/>
 

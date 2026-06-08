@@ -34,20 +34,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `About Me`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
 
-Software Engineer focused on backend systems, AI runtimes, and real-time applications.
+Software Engineer focused on backend systems, AI runtimes, and real-time distributed applications.
 
-Building AI systems, backend platforms, developer tooling, and production-ready applications using Python, Node.js, Flask, React, MongoDB, MySQL, and modern AI technologies.
+I design and build AI systems, backend platforms, developer tooling, and production-grade applications using Python, Node.js, Flask, React, MongoDB, MySQL, and modern AI/LLM technologies.
 
 Core Areas:
 
-• Backend Engineering
-• AI Systems & Local LLM Infrastructure
-• Real-Time Applications
-• Event-Driven Architectures
-• API Development & System Design
-• Automation & Developer Tooling
+• Backend Engineering & Scalable System Design  
+• AI Systems & Local LLM Infrastructure  
+• Real-Time Distributed Applications  
+• Event-Driven Architectures  
+• API Design, Microservices & System Architecture  
+• Automation, Tooling & Developer Infrastructure  
+
+I enjoy working on systems that are fault-tolerant, event-driven, and optimized for real-world production use cases, especially where AI and backend engineering intersect.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

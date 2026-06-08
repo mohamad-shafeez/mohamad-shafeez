@@ -103,4 +103,3 @@ I design and build high-performance, fault-tolerant backend systems and local AI
 
 *   **Email**: [shafeezchappi18@gmail.com](mailto:shafeezchappi18@gmail.com)
 *   **LinkedIn**: [linkedin.com/in/mohamad-shafeez](https://linkedin.com/in/mohamad-shafeez)
-*   **Live Projects**: [Cipher AI](https://cipher-voice-ai.netlify.app) · [SafeNav Platform](https://safe-nav-pied.vercel.app/)

@@ -72,7 +72,6 @@ Core Areas:
 <br clear="right"/>
 
 <details>
-<summary><b>🔬 &nbsp; Engineering Architecture — Click to Expand</b></summary>
 
 <br/>
 
@@ -121,7 +120,6 @@ Core Areas:
 <br clear="right"/>
 
 <details>
-<summary><b>🔬 &nbsp; Engineering Architecture — Click to Expand</b></summary>
 
 <br/>
 
@@ -227,40 +225,26 @@ Core Areas:
 
 ## 🛠️ &nbsp; `Technology Stack`
 
-<br/>
+### Languages
+Python • JavaScript • SQL • HTML • CSS
 
-```json
-{
-  "languages"  :  ["Python", "JavaScript (ES6+)", "HTML5", "CSS3", "SQL"],
+### Backend
+Node.js • Express.js • Flask • REST APIs • Event-Driven Architecture • Multiprocessing
 
-  "backend"    :  {
-    "frameworks":   ["Node.js", "Express.js", "Flask"],
-    "patterns"  :   ["REST APIs", "Event-Driven Architecture", "Multiprocessing",
-                     "IPC (JSON Lines)", "CPU Priority Scheduling", "WAL Mode SQLite"],
-    "security"  :   ["JWT", "RBAC", "AES-256 / Fernet", "PBKDF2-HMAC-SHA256",
-                     "Firebase Auth", "bcrypt"]
-  },
+### AI & Automation
+Ollama • Gemini API • Faster-Whisper • Silero VAD • Chroma • RAG • Prompt Engineering • Multi-Agent Systems
 
-  "ai_ml"      :  {
-    "inference" :   ["Ollama", "Gemini 1.5 Flash", "Faster-Whisper STT", "Silero VAD"],
-    "memory"    :   ["Chroma Vector DB", "SQLite WAL", "Semantic Embeddings"],
-    "patterns"  :   ["RAG", "Prompt Engineering", "Multi-Agent Orchestration",
-                     "Tool-Use Agents", "Hallucination Detection", "Safety Filtering"]
-  },
+### Frontend
+React • Next.js • Tailwind CSS • PWA • Service Workers
 
-  "frontend"   :  ["React.js", "Next.js 14", "Tailwind CSS", "Framer Motion",
-                   "Vanilla JavaScript", "PWA", "Service Workers", "MapLibre GL JS"],
+### Databases
+MongoDB • MySQL • SQLite • Firebase Firestore
 
-  "databases"  :  ["MongoDB", "Firebase Firestore", "SQLite", "MySQL"],
+### Real-Time Systems
+Socket.io • WebSockets • SSE
 
-  "realtime"   :  ["Socket.io", "WebSockets", "Server-Sent Events (SSE)"],
-
-  "devops"     :  ["Git", "Gunicorn", "Render", "Vercel", "Firebase Hosting",
-                   "Netlify", "Postman", "Cloudinary", "TomTom API", "ADB"]
-}
-```
-
-<br/>
+### Tools & Platforms
+Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API • ADB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

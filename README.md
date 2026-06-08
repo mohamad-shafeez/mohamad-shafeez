@@ -38,6 +38,8 @@
 
 Software Engineer focused on backend systems, AI runtimes, and real-time applications.
 
+Focused on building AI systems, backend platforms, and real-time applications using Python, Node.js, Flask, MongoDB, MySQL, React, and modern AI tooling.
+
 I enjoy building fault-tolerant systems, local AI infrastructure, event-driven architectures, and production-ready web applications.
 
 Core Areas:
@@ -260,7 +262,9 @@ Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API
 
 <br/><br/>
 
-> ### *Interested in backend engineering, AI systems, developer infrastructure, and real-time applications. Feel free to connect through LinkedIn or reach out by email.*
+> ### *Building backend systems, AI applications, developer tooling, and real-time platforms.
+
+Feel free to connect through LinkedIn or reach out by email.*
 
 <br/>
 

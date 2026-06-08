@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'MDEOF'
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,40:051528,100:0a2a4a&height=200&section=header&text=Mohamad%20Shafeez&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Real-Time%20Architectures&descAlignY=62&descSize=16&descColor=90caf9"/>
@@ -250,12 +249,3 @@ class MohamadShafeez:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a4a,100:020810&height=100&section=footer"/>
 
 </div>
-MDEOF
-echo "Done"
-Output
-
-Done
-Done
-
-You are out of free messages until 6:00 PM
-Upgrade

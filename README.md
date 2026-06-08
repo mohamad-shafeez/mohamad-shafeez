@@ -71,7 +71,6 @@ Core Areas:
 
 <br clear="right"/>
 
-<details>
 
 <br/>
 
@@ -88,7 +87,6 @@ Core Areas:
 | **IPC Layer** | Shared-nothing JSON `multiprocessing.Queue()` — no memory collision between parent/child processes on Windows `spawn` |
 | **Safety Filters** | Runtime prompt injection detection + response filtering for jailbreak, violent content, and toxic language |
 
-</details>
 
 <br/>
 
@@ -119,7 +117,6 @@ Core Areas:
 
 <br clear="right"/>
 
-<details>
 
 <br/>
 
@@ -132,7 +129,6 @@ Core Areas:
 | **Admin Command Center** | JWT-verified kill-switch (L0–L3 threat levels) + immutable Firestore audit logs + real-time API quota monitoring |
 | **Production Stack** | Render (Gunicorn) + Firebase Hosting + Vercel serverless fallback — Stale-While-Revalidate PWA offline support |
 
-</details>
 
 <br/>
 
@@ -250,27 +246,6 @@ Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API
 
 <br/>
 
-## 📊 &nbsp; `Engineering Focus`
-
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamad-shafeez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=c9d1d9&ring_color=00b4d8&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shafeez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shafeez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=7dd3fc&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
 
 ## 📬 &nbsp; `Contact`
 

@@ -262,9 +262,7 @@ Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API
 
 <br/><br/>
 
-> ### *Building backend systems, AI applications, developer tooling, and real-time platforms.
-
-Feel free to connect through LinkedIn or reach out by email.*
+> ### *Building backend systems, AI applications, developer tooling, and real-time platforms. Feel free to connect through LinkedIn or reach out by email.*
 
 <br/>
 

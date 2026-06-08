@@ -58,7 +58,6 @@ Core Areas:
 
 ### ⚡ &nbsp; Cipher OS &mdash; Fault-Tolerant Local AI Runtime & OS Daemon
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=Cipher-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
 > *An experimental OS-level AI background daemon for Windows. Manages heavy multi-agent LLM workloads locally without ever blocking the primary voice interface or real-time audio streams.*
 
@@ -104,7 +103,6 @@ Core Areas:
 
 ### 🗺️ &nbsp; SafeNav &mdash; AI-Powered Travel Safety Platform (Production PWA)
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=SafeNav&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
 > *A full-stack health-aware route intelligence PWA. Synthesizes live weather, AQI, and traffic telemetry with Gemini AI to generate deterministic safety scores and health-personalized travel recommendations.*
 
@@ -146,7 +144,6 @@ Core Areas:
 
 ### 🔨 &nbsp; Auction House &mdash; Real-Time MERN Bidding Platform
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=Auctin-House&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
 > *High-fidelity live auction and token-draw platform. State-locked campaigns, WebSocket bid broadcasting, real-time grid locking, and a private user-admin chat system.*
 

@@ -1,280 +1,334 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:00b4d8&height=180&section=header&text=Mohamad%20Shafeez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Real-Time%20Architectures&descAlignY=60&descSize=16&descColor=7dd3fc" />
-
-<!-- STATUS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-00d26a?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Location-Mangalore%2C%20India-00b4d8?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20AI%20%7C%20Full--Stack-7dd3fc?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://linkedin.com/in/mohamad-shafeez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shafeezchappi18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://safe-nav-pied.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Project-SafeNav-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://cipher-voice-ai.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Project-Cipher%20AI-7dd3fc?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,30:051528,70:0a2a4a,100:00b4d8&height=220&section=header&text=Mohamad%20Shafeez&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Real-Time%20Architectures&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" />
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Building+fault-tolerant+AI+runtimes+%F0%9F%A4%96;Architecting+real-time+backend+systems+%E2%9A%A1;Orchestrating+local+multi-agent+LLM+workflows+%F0%9F%A7%A0;Open+to+Backend+%7C+Full-Stack+%7C+AI%2FML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Internships%202026-00d26a?style=for-the-badge&labelColor=0d1117&color=00d26a)
+&nbsp;
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Mangalore%2C%20India-%E2%86%92%20Bangalore%20%2F%20Remote-00b4d8?style=for-the-badge&labelColor=0d1117&color=00b4d8)
+&nbsp;
+![BCA](https://img.shields.io/badge/%F0%9F%8E%93%20BCA-Graduating%20May%202026-7dd3fc?style=for-the-badge&labelColor=0d1117&color=7dd3fc)
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/mohamad-shafeez">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:shafeezchappi18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shafeezchappi18-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohamad-shafeez">
+  <img src="https://img.shields.io/badge/GitHub-mohamad--shafeez-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</div>
+
+<br/>
+
 ---
 
-## `> whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `whoami`
 
 ```python
 class MohamadShafeez:
 
     role        = "Backend Engineer & AI Systems Builder"
-    university  = "Srinivas University, Mangalore — BCA, Graduating May 2026"
-    location    = "Mangalore, India  →  targeting Bangalore / Remote"
+    university  = "Srinivas University, Mangalore  —  BCA, Graduating May 2026"
+    location    = "Mangalore, India  →  Targeting Bangalore / Remote"
 
-    specialization = [
-        "Fault-tolerant concurrent AI runtimes",
-        "High-throughput backend APIs & real-time systems",
-        "Local LLM orchestration & multi-agent architectures",
-        "Cryptographic security & production PWA deployment",
+    core_focus  = [
+        "Fault-tolerant concurrent AI runtimes & OS-level daemons",
+        "High-throughput backend APIs & real-time event-driven systems",
+        "Local LLM orchestration & multi-agent AI architectures",
+        "Cryptographic security, deterministic risk engines & PWA deployment",
     ]
 
-    currently_building = "Cipher OS — an offline-first multi-agent AI operating daemon"
-    open_to            = "Backend · Full-Stack · AI/ML Internships (2026)"
-    contact            = "shafeezchappi18@gmail.com"
+    flagship    = "Cipher OS  —  an offline-first multi-agent AI operating daemon"
+    seeking     = "Backend · Full-Stack · AI/ML  Internships  (2026)"
+    contact     = "shafeezchappi18@gmail.com"
+
+    def __init__(self):
+        self.coffee_dependent = True
+        self.ships_production_code = True
 ```
 
----
-
-## `> ls ./projects --flagship`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-### ⚡ Cipher OS — Fault-Tolerant Local AI Runtime
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; `ls ./projects --flagship`
+
+<br/>
+
+### ⚡ &nbsp; Cipher OS &mdash; Fault-Tolerant Local AI Runtime & OS Daemon
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=Cipher-AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
 > *An experimental OS-level AI background daemon for Windows. Manages heavy multi-agent LLM workloads locally without ever blocking the primary voice interface or real-time audio streams.*
 
-<p>
-  <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Faster--Whisper-00A67E?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Silero_VAD-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chroma_VectorDB-7B2FBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-00A67E?style=flat-square&logo=openai&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma_VectorDB-7B2FBE?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-| Engineering Pillar | Implementation |
+<br clear="right"/>
+
+<details>
+<summary><b>🔬 &nbsp; Engineering Architecture — Click to Expand</b></summary>
+
+<br/>
+
+| 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
-| **Process Isolation** | Heavy LLM tasks run in `IDLE_PRIORITY_CLASS` subprocesses; voice interface locked to `HIGH_PRIORITY_CLASS` — inference never blocks audio |
-| **Dual Inference Lanes** | Separate Ollama instances on ports 11434 (LiveTalk) and 11435 (Sovereign Mode) bypass query-queue bottlenecks |
-| **Flatline Watchdog** | 3-second heartbeat pulses + 45-second deadlock detection → SIGKILL + auto-respawn with cooldown gate |
-| **Three-Tier Memory** | Volatile working memory → SQLite WAL episodic store → Chroma semantic embeddings, auto-injected per inference call |
-| **Agent Ecosystem** | 150+ AI personas across 13 domains; intent-based routing via `agent_router.py` |
+| **Process Isolation** | Heavy LLM tasks → `IDLE_PRIORITY_CLASS` subprocesses; Voice interface → `HIGH_PRIORITY_CLASS` — inference **never** blocks audio |
+| **Dual Inference Lanes** | Separate Ollama on ports `11434` (LiveTalk) and `11435` (Sovereign Mode) — bypasses query-queue bottlenecks entirely |
+| **Flatline Watchdog** | 3-second heartbeat pulses + 45-second deadlock detection → `SIGKILL` + auto-respawn with cooldown gate |
+| **Three-Tier Memory** | Volatile working memory → SQLite WAL episodic store → Chroma semantic embeddings — auto-injected per inference call |
+| **Agent Ecosystem** | 150+ AI personas across 13 industry domains; intent-based routing via `agent_router.py` |
 | **Skill Architecture** | 58+ modular plugins (vision, WhatsApp/Gmail automation, ADB Android control) with dynamic hot-reload |
-| **Evaluation Harness** | Production-grade hallucination, bias, jailbreak & OSS-vs-frontier benchmark suite → auto-generated PDF/MD reports |
-| **VRAM Management** | Active GPU eviction (`keep_alive: 0`) + Python `gc.collect()` post-task to prevent RAM/VRAM exhaustion |
+| **Evaluation Harness** | Production-grade hallucination, bias, jailbreak & OSS-vs-frontier benchmark suite → auto-generates PDF/MD reports |
+| **VRAM Management** | Active GPU eviction (`keep_alive: 0`) + `gc.collect()` post-task — prevents RAM/VRAM exhaustion on long sessions |
+| **IPC Layer** | Shared-nothing JSON `multiprocessing.Queue()` — no memory collision between parent/child processes on Windows `spawn` |
+| **Safety Filters** | Runtime prompt injection detection + response filtering for jailbreak, violent content, and toxic language |
 
-<p>
-  <a href="https://drive.google.com/file/d/15aT0SbL-bgEsEy-pLC1-Gyj09cFdAkgW/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶_Video_Walkthrough-Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohamad-shafeez/Cipher-AI">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://cipher-voice-ai.netlify.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-</p>
+</details>
+
+<br/>
+
+<a href="https://drive.google.com/file/d/15aT0SbL-bgEsEy-pLC1-Gyj09cFdAkgW/view?usp=sharing">
+  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Video%20Walkthrough-Google%20Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohamad-shafeez/Cipher-AI">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
 
 ---
 
-### 🗺️ SafeNav — AI-Powered Travel Safety Platform
+### 🗺️ &nbsp; SafeNav &mdash; AI-Powered Travel Safety Platform (Production PWA)
 
-> *A full-stack, health-aware route intelligence PWA. Synthesizes live weather, AQI, and traffic telemetry with Gemini AI to generate deterministic safety scores and health-personalized travel recommendations.*
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=SafeNav&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python_Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_1.5_Flash-8E44AD?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TomTom_API-DF0A24?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AES--256_Fernet-00897B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-</p>
+> *A full-stack health-aware route intelligence PWA. Synthesizes live weather, AQI, and traffic telemetry with Gemini AI to generate deterministic safety scores and health-personalized travel recommendations.*
 
-| Engineering Pillar | Implementation |
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-8E44AD?style=flat-square&logo=google&logoColor=white)
+![TomTom](https://img.shields.io/badge/TomTom_API-DF0A24?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AES256](https://img.shields.io/badge/AES--256_Fernet-00897B?style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+<br clear="right"/>
+
+<details>
+<summary><b>🔬 &nbsp; Engineering Architecture — Click to Expand</b></summary>
+
+<br/>
+
+| 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
-| **Deterministic Risk Engine** | Composite Safety Score (0–150) with adaptive health-profile thresholds (31°C cardiac vs. 38°C standard) and non-linear exposure multiplier |
-| **Dual-Route Intelligence** | TomTom real-time incident scanning via BBox, Haversine geodesic math, fuel/CO₂/toll cost modeling — fastest vs. safest path comparison |
+| **Deterministic Risk Engine** | Composite Safety Score (0–150) with adaptive health thresholds (31°C cardiac vs. 38°C standard) + non-linear exposure multiplier |
+| **Dual-Route Intelligence** | TomTom BBox incident scanning + Haversine geodesic math + fuel/CO₂/toll modeling — fastest vs. health-optimized path comparison |
 | **AI Resilience** | Gemini exponential backoff + API key rotation on 429/503; graceful degradation for all external APIs |
-| **Secure Document Vault** | 22 document types — Fernet AES-256-CBC + PBKDF2-HMAC-SHA256 key derivation + SHA-256 integrity checksums + Gemini Vision validation |
-| **Admin Command Center** | JWT-verified kill-switch (L0–L3 threat levels), immutable Firestore audit logs, real-time API quota monitoring |
-| **Production Deployment** | Render (Gunicorn) + Firebase Hosting + Vercel serverless fallback — Stale-While-Revalidate PWA offline support |
+| **Secure Document Vault** | 22 document types — Fernet AES-256-CBC + PBKDF2-HMAC-SHA256 + SHA-256 checksums + Gemini Vision AI validation |
+| **Admin Command Center** | JWT-verified kill-switch (L0–L3 threat levels) + immutable Firestore audit logs + real-time API quota monitoring |
+| **Production Stack** | Render (Gunicorn) + Firebase Hosting + Vercel serverless fallback — Stale-While-Revalidate PWA offline support |
 
-<p>
-  <a href="https://drive.google.com/file/d/1Bc9oYDfGGSERi5KU-XpOtrF12JbCOkti/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/▶_Video_Walkthrough-Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohamad-shafeez/SafeNav">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://safe-nav-pied.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</details>
 
----
+<br/>
 
-### 🔨 Auction House — Real-Time MERN Bidding Platform
+<a href="https://drive.google.com/file/d/1Bc9oYDfGGSERi5KU-XpOtrF12JbCOkti/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Video%20Walkthrough-Google%20Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohamad-shafeez/SafeNav">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
 
-> *A high-fidelity live auction and token-draw platform. Manages state-locked campaigns, real-time bidding, and user-merchant interactions with a hybrid 3-tier listing system.*
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_v19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square"/>
-</p>
-
-- **Hybrid Listing Engine** — DRAW (100-slot token grid), BID/LIVE_BID (real-time auction rooms), and SOCIAL (post) campaign types under a unified Mongoose model
-- **Real-Time WebSocket Layer** — Socket.io broadcasts bid updates, emoji reactions, grid locking, and presence notifications to all connected clients instantly
-- **State-Locked Grid** — Token number locking on purchase prevents double-booking; MongoDB TTL index auto-expires campaigns 2 days after `endTime`
-- **Admin God Mode** — User management with ban/unban, campaign creation, real-time chat inbox, and Cloudinary media ingestion via Multer
-
-<p>
-  <a href="https://github.com/mohamad-shafeez/Auctin-House">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
 ---
 
-### 🌐 EventEase — AI-Augmented Event Management Platform
+### 🔨 &nbsp; Auction House &mdash; Real-Time MERN Bidding Platform
 
-> *A production-ready multi-role event platform powered by Flask, MySQL, and Gemini AI. Manages the full event lifecycle across creators, attendees, and administrators.*
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamad-shafeez&repo=Auctin-House&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=8b949e"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Flask_3.1-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APScheduler-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/QR_Codes-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+> *High-fidelity live auction and token-draw platform. State-locked campaigns, WebSocket bid broadcasting, real-time grid locking, and a private user-admin chat system.*
 
-- **Gemini AI Toolkit** — Auto-generates 150-word event descriptions, INR pricing recommendations with local market reasoning, and WhatsApp social media copy
-- **Full Booking Pipeline** — Ticket booking → simulated checkout → PDF/QR code ticket generation → check-in scanning
-- **Background Automation** — APScheduler cancels expired drafts, promotes waitlists, and updates event statuses automatically
-- **Role-Based Dashboards** — Separate creator analytics (revenue, fill rates), attendee profiles, and admin moderation panel with AI content flagging
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_v19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<p>
-  <a href="https://github.com/mohamad-shafeez/EventEase">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br clear="right"/>
 
----
+- **Hybrid 3-Tier Listing System** — DRAW (100-slot token grid), LIVE_BID (real-time auction rooms), SOCIAL (post feed) under a unified Mongoose model
+- **Real-Time WebSocket Layer** — Socket.io broadcasts bid updates, emoji reactions, and token grid locking to all clients instantly
+- **State-Locked Grid** — Purchase locks token numbers in real-time preventing double-booking; MongoDB TTL auto-expires campaigns 2 days post-`endTime`
+- **Admin God Mode** — User management, ban/unban toggles, campaign creator with Cloudinary media ingestion, real-time chat inbox with unread badges
 
-### 🗳️ VoteHub — Real-Time Polling Platform
+<a href="https://github.com/mohamad-shafeez/Auctin-House">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
 
-> *A secure MERN-stack voting application with role-based authorization, real-time poll management, and interactive data visualizations.*
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-- JWT authentication with bcrypt hashing; first-registered user auto-assigned Admin role
-- Admin system settings: real-time toggles for registration, platform-wide voting, and site name — no redeploy needed
-- Chart.js visualizations for poll results; MongoDB TTL-style cleanup on poll deletion cascades to all associated votes
-
-<p>
-  <a href="https://github.com/mohamad-shafeez/VoteHub">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/><br/>
 
 ---
 
-## `> cat ./tech_stack.json`
+### 🌐 &nbsp; EventEase &mdash; AI-Augmented Event Management Platform
+
+> *Production-ready multi-role event platform. Flask + MySQL + Gemini AI managing the full event lifecycle — creation, booking, QR ticketing, and automated background tasks.*
+
+![Flask](https://img.shields.io/badge/Flask_3.1-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white)
+![APScheduler](https://img.shields.io/badge/APScheduler-FF6F00?style=flat-square)
+![QR](https://img.shields.io/badge/QR%20Ticketing-000000?style=flat-square)
+
+- **Gemini AI Toolkit** — Auto-generates event descriptions, INR pricing with local market reasoning, and WhatsApp social copy
+- **Full Booking Pipeline** — Ticket booking → checkout → PDF/QR ticket generation → on-site check-in scanning
+- **Background Automation** — APScheduler cancels expired drafts, promotes waitlists, and syncs event statuses automatically
+- **Role Dashboards** — Creator analytics (revenue, fill rates), attendee bookmarks/reviews, admin moderation with AI content flagging
+
+<a href="https://github.com/mohamad-shafeez/EventEase">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+---
+
+### 🗳️ &nbsp; VoteHub &mdash; Real-Time MERN Polling Platform
+
+> *Secure voting application with JWT auth, role-based admin controls, Chart.js result visualizations, and real-time platform-wide settings toggling — no redeploy needed.*
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+- First-registered user auto-assigned Admin; JWT + bcrypt auth with Axios interceptors
+- Admin toggles: enable/disable registration, open/close voting, update site name — all live, zero redeploy
+- Poll deletion cascades to all associated votes; Chart.js visualizations for live results
+
+<a href="https://github.com/mohamad-shafeez/VoteHub">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 🛠️ &nbsp; `cat ./tech_stack.json`
+
+<br/>
 
 ```json
 {
-  "languages":      ["Python", "JavaScript (ES6+)", "HTML5", "CSS3", "SQL"],
+  "languages"  :  ["Python", "JavaScript (ES6+)", "HTML5", "CSS3", "SQL"],
 
-  "backend": {
+  "backend"    :  {
     "frameworks":   ["Node.js", "Express.js", "Flask"],
-    "patterns":     ["REST APIs", "Event-Driven Architecture", "Multiprocessing",
+    "patterns"  :   ["REST APIs", "Event-Driven Architecture", "Multiprocessing",
                      "IPC (JSON Lines)", "CPU Priority Scheduling", "WAL Mode SQLite"],
-    "security":     ["JWT", "RBAC", "AES-256 / Fernet", "PBKDF2-HMAC-SHA256",
+    "security"  :   ["JWT", "RBAC", "AES-256 / Fernet", "PBKDF2-HMAC-SHA256",
                      "Firebase Auth", "bcrypt"]
   },
 
-  "ai_ml": {
-    "inference":    ["Ollama", "Gemini 1.5 Flash", "Faster-Whisper STT", "Silero VAD"],
-    "memory":       ["Chroma Vector DB", "SQLite WAL", "Semantic Embeddings"],
-    "patterns":     ["RAG", "Prompt Engineering", "Multi-Agent Orchestration",
+  "ai_ml"      :  {
+    "inference" :   ["Ollama", "Gemini 1.5 Flash", "Faster-Whisper STT", "Silero VAD"],
+    "memory"    :   ["Chroma Vector DB", "SQLite WAL", "Semantic Embeddings"],
+    "patterns"  :   ["RAG", "Prompt Engineering", "Multi-Agent Orchestration",
                      "Tool-Use Agents", "Hallucination Detection", "Safety Filtering"]
   },
 
-  "frontend":       ["React.js", "Next.js 14", "Tailwind CSS", "Framer Motion",
-                     "Vanilla JavaScript", "PWA", "Service Workers", "MapLibre GL JS"],
+  "frontend"   :  ["React.js", "Next.js 14", "Tailwind CSS", "Framer Motion",
+                   "Vanilla JavaScript", "PWA", "Service Workers", "MapLibre GL JS"],
 
-  "databases":      ["MongoDB", "Firebase Firestore", "SQLite", "MySQL"],
+  "databases"  :  ["MongoDB", "Firebase Firestore", "SQLite", "MySQL"],
 
-  "realtime":       ["Socket.io", "WebSockets", "Server-Sent Events (SSE)"],
+  "realtime"   :  ["Socket.io", "WebSockets", "Server-Sent Events (SSE)"],
 
-  "devops_tools":   ["Git", "Gunicorn", "Render", "Vercel", "Firebase Hosting",
-                     "Netlify", "Postman", "Cloudinary", "TomTom API", "ADB"]
+  "devops"     :  ["Git", "Gunicorn", "Render", "Vercel", "Firebase Hosting",
+                   "Netlify", "Postman", "Cloudinary", "TomTom API", "ADB"]
 }
 ```
 
----
+<br/>
 
-## `> ./stats --github`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📊 &nbsp; `./stats --github`
+
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamad-shafeez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=c9d1d9&ring_color=00b4d8" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shafeez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamad-shafeez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7dd3fc&text_color=c9d1d9&ring_color=00b4d8&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shafeez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shafeez&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=7dd3fc&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e"/>
 
 </div>
 
----
+<br/>
 
-## `> cat ./contact.txt`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## 📬 &nbsp; `cat ./contact.txt`
+
+<br/>
 
 <div align="center">
 
-| Channel | Link |
-| :---: | :---: |
-| 📧 Email | [shafeezchappi18@gmail.com](mailto:shafeezchappi18@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/mohamad-shafeez](https://linkedin.com/in/mohamad-shafeez) |
-| 🌐 SafeNav Live | [safe-nav-pied.vercel.app](https://safe-nav-pied.vercel.app/) |
-| ⚡ Cipher Live | [cipher-voice-ai.netlify.app](https://cipher-voice-ai.netlify.app) |
+<a href="mailto:shafeezchappi18@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-shafeezchappi18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/mohamad-shafeez">
+  <img src="https://img.shields.io/badge/LinkedIn-mohamad--shafeez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+> ### *"I don't just build features — I engineer systems."*
+> *Actively seeking backend, full-stack, or AI/ML internship roles for 2026.*
+> *If you're building something ambitious — I'd love to contribute.*
 
 <br/>
 
-> *I'm actively seeking backend, full-stack, or AI/ML internship roles for 2026.*
-> *If you're building something ambitious — I'd love to talk.*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a2a4a,100:020810&height=120&section=footer"/>
 
 </div>

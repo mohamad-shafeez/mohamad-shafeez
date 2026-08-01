@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Building+fault-tolerant+AI+runtimes;Architecting+real-time+backend+systems;Orchestrating+local+multi-agent+AI+workflows;Designing+production-ready+software+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&width=700&lines=Building+fault-tolerant+AI+runtimes;Architecting+real-time+backend+systems;Generating+production+DevOps+infrastructure+with+AI;Designing+production-ready+software+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,18 +38,18 @@
 
 Software Engineer focused on backend systems, AI runtimes, and real-time distributed applications.
 
-I design and build AI systems, backend platforms, developer tooling, and production-grade applications using Python, Node.js, Flask, React, MongoDB, MySQL, and modern AI/LLM technologies.
+I design and build backend platforms, AI infrastructure, developer tooling, and production-grade applications using Java, Spring Boot, Python, Node.js, Flask, React, Next.js, PostgreSQL, MongoDB, and modern AI/LLM technologies.
 
-Core Areas:
+**Core Areas:**
 
-• Backend Engineering & Scalable System Design  
-• AI Systems & Local LLM Infrastructure  
-• Real-Time Distributed Applications  
-• Event-Driven Architectures  
-• API Design, Microservices & System Architecture  
-• Automation, Tooling & Developer Infrastructure  
+- Backend Engineering & Scalable System Design
+- AI Systems & Local LLM Infrastructure
+- Real-Time Distributed Applications
+- Event-Driven Architectures
+- API Design & System Architecture
+- DevOps Automation & Infrastructure Generation
 
-I enjoy working on systems that are fault-tolerant, event-driven, and optimized for real-world production use cases, especially where AI and backend engineering intersect.
+I enjoy building systems that are fault-tolerant, event-driven, and optimized for real-world production use, especially where AI and backend engineering intersect.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -59,8 +59,47 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 <br/>
 
-### ⚡ &nbsp; Cipher OS &mdash; Fault-Tolerant Local AI Runtime & OS Daemon
+### 🚀 &nbsp; AI DevOps Assistant &mdash; Automated Infrastructure Generation Platform
 
+> *A full-stack platform that analyzes any codebase or GitHub repository and generates 12 production-ready DevOps artifacts — Dockerfiles, CI/CD pipelines, Kubernetes manifests, Terraform configs, and security audits — from a single structured Gemini AI prompt.*
+
+![Java](https://img.shields.io/badge/Java_17-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL_16-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_1.5%2F2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+
+| 🏗️ Pillar | ⚙️ Implementation |
+| :--- | :--- |
+| **Single-Pass Generation** | One structured Gemini prompt synthesizes all 12 artifacts (Dockerfile, Compose, CI/CD, K8s, Helm, Terraform, security audit, code review, `.env.example`, deployment report, architecture docs, health scores) instead of 12 separate LLM calls |
+| **Resilient AI Calls** | `GeminiApiService` — exponential backoff retry on HTTP 429/503, up to 4 attempts (2s → 4s → 8s), with graceful fallback error responses |
+| **Repository Intelligence** | `GithubService` queries the GitHub Trees API (`/repos/{owner}/{repo}/git/trees`) to extract real repository structure and feed it into AI context |
+| **Layered Spring Architecture** | Controller → Service → Repository → DTO, with Spring Data JPA persistence, Flyway-managed schema migrations, and global exception handling via `@RestControllerAdvice` |
+| **Containerized Stack** | Docker Compose orchestrates PostgreSQL 16 + Spring Boot backend + Next.js frontend as a single-command deployment; Spring Actuator exposes a health endpoint for container probes |
+| **Verified Test Suite** | JUnit 5 + MockMvc covering controller, service, and validation logic — 4/4 passing (focused baseline suite) |
+| **Client Experience** | Next.js 14 App Router + TypeScript frontend — file tree viewer, syntax-highlighted code panels, 0–100 health/security score meters, one-click ZIP export via JSZip |
+
+> ⚠️ **Note on generated artifacts:** the Kubernetes manifests, Helm charts, and Terraform configs are AI-synthesized *output* for a user's target codebase — the platform itself runs as a Docker Compose stack (Spring Boot + PostgreSQL + Next.js), not on Kubernetes.
+
+<br/>
+
+<a href="https://drive.google.com/file/d/1SVy8shQxEdl5-cUGS9U3uJmkA_4H1TXR/view?usp=sharing">
+  <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Video%20Walkthrough-Google%20Drive-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/mohamad-shafeez/ai-devops-assistant">
+  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+---
+
+### ⚡ &nbsp; Cipher OS &mdash; Fault-Tolerant Local AI Runtime & OS Daemon
 
 > *An experimental OS-level AI background daemon for Windows. Manages heavy multi-agent LLM workloads locally without ever blocking the primary voice interface or real-time audio streams.*
 
@@ -71,24 +110,19 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 ![Chroma](https://img.shields.io/badge/Chroma_VectorDB-7B2FBE?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<br clear="right"/>
-
-
 <br/>
 
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
-| **Process Isolation** | Heavy LLM tasks → `IDLE_PRIORITY_CLASS` subprocesses; Voice interface → `HIGH_PRIORITY_CLASS` — inference **never** blocks audio |
-| **Dual Inference Lanes** | Separate Ollama on ports `11434` (LiveTalk) and `11435` (Sovereign Mode) — bypasses query-queue bottlenecks entirely |
+| **Process Isolation** | Heavy LLM tasks → `IDLE_PRIORITY_CLASS` subprocesses; Voice interface → `HIGH_PRIORITY_CLASS` — inference never blocks audio |
+| **Dual Inference Lanes** | Separate local Ollama instances on ports `11434` (LiveTalk) and `11435` (Sovereign Mode) — bypasses query-queue bottlenecks |
 | **Flatline Watchdog** | 3-second heartbeat pulses + 45-second deadlock detection → `SIGKILL` + auto-respawn with cooldown gate |
 | **Three-Tier Memory** | Volatile working memory → SQLite WAL episodic store → Chroma semantic embeddings — auto-injected per inference call |
-| **Agent Ecosystem** | 150+ AI personas across 13 industry domains; intent-based routing via `agent_router.py` |
-| **Skill Architecture** | 58+ modular plugins (vision, WhatsApp/Gmail automation, ADB Android control) with dynamic hot-reload |
-| **Evaluation Harness** | Production-grade hallucination, bias, jailbreak & OSS-vs-frontier benchmark suite → auto-generates PDF/MD reports |
-| **VRAM Management** | Active GPU eviction (`keep_alive: 0`) + `gc.collect()` post-task — prevents RAM/VRAM exhaustion on long sessions |
+| **Agent Ecosystem** | **176 AI personas** across 13 domain directories in `agent_ecosystem/`, defined as individual prompt files; intent-based routing via `agent_router.py` |
+| **Skill Architecture** | Modular plugin system using `importlib` with **startup-time discovery** across 10+ skill categories (vision, WhatsApp/Gmail automation, ADB Android control) — new skills load without touching core runtime code |
+| **Evaluation Harness** | Hallucination, bias, and jailbreak benchmark suite with auto-generated PDF/MD reports |
 | **IPC Layer** | Shared-nothing JSON `multiprocessing.Queue()` — no memory collision between parent/child processes on Windows `spawn` |
-| **Safety Filters** | Runtime prompt injection detection + response filtering for jailbreak, violent content, and toxic language |
-
+| **Safety Filters** | Runtime prompt injection detection and response filtering for jailbreak and toxic content |
 
 <br/>
 
@@ -106,30 +140,25 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 ### 🗺️ &nbsp; SafeNav &mdash; AI-Powered Travel Safety Platform (Production PWA)
 
-
 > *A full-stack health-aware route intelligence PWA. Synthesizes live weather, AQI, and traffic telemetry with Gemini AI to generate deterministic safety scores and health-personalized travel recommendations.*
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-8E44AD?style=flat-square&logo=google&logoColor=white)
 ![TomTom](https://img.shields.io/badge/TomTom_API-DF0A24?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AES256](https://img.shields.io/badge/AES--256_Fernet-00897B?style=flat-square)
+![Fernet](https://img.shields.io/badge/Fernet_AES--128--CBC-00897B?style=flat-square)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-<br clear="right"/>
-
 
 <br/>
 
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Deterministic Risk Engine** | Composite Safety Score (0–150) with adaptive health thresholds (31°C cardiac vs. 38°C standard) + non-linear exposure multiplier |
-| **Dual-Route Intelligence** | TomTom BBox incident scanning + Haversine geodesic math + fuel/CO₂/toll modeling — fastest vs. health-optimized path comparison |
-| **AI Resilience** | Gemini exponential backoff + API key rotation on 429/503; graceful degradation for all external APIs |
-| **Secure Document Vault** | 22 document types — Fernet AES-256-CBC + PBKDF2-HMAC-SHA256 + SHA-256 checksums + Gemini Vision AI validation |
-| **Admin Command Center** | JWT-verified kill-switch (L0–L3 threat levels) + immutable Firestore audit logs + real-time API quota monitoring |
-| **Production Stack** | Render (Gunicorn) + Firebase Hosting + Vercel serverless fallback — Stale-While-Revalidate PWA offline support |
-
+| **Dual-Route Intelligence** | TomTom bounding-box incident scanning (capped at 50) + Haversine geodesic math + fuel/CO₂/toll modeling |
+| **AI Resilience** | Gemini exponential backoff on 429/503 responses; graceful degradation for all external APIs |
+| **Secure Document Vault** | Fernet authenticated encryption (**AES-128-CBC + HMAC-SHA256**) + PyPDF2 text extraction + Gemini Vision AI for multimodal OCR/translation |
+| **Admin Command Center** | JWT-verified kill-switch + immutable Firestore audit logs |
+| **Production Stack** | Render (Gunicorn) backend + Vercel frontend, decoupled via a custom `vercel.json` proxy bridge; Stale-While-Revalidate PWA offline support |
 
 <br/>
 
@@ -147,24 +176,23 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 ### 🔨 &nbsp; Auction House &mdash; Real-Time MERN Bidding Platform
 
-
 > *High-fidelity live auction and token-draw platform. State-locked campaigns, WebSocket bid broadcasting, real-time grid locking, and a private user-admin chat system.*
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React_v19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<br clear="right"/>
+<br/>
 
-- **Hybrid 3-Tier Listing System** — DRAW (100-slot token grid), LIVE_BID (real-time auction rooms), SOCIAL (post feed) under a unified Mongoose model
-- **Real-Time WebSocket Layer** — Socket.io broadcasts bid updates, emoji reactions, and token grid locking to all clients instantly
-- **State-Locked Grid** — Purchase locks token numbers in real-time preventing double-booking; MongoDB TTL auto-expires campaigns 2 days post-`endTime`
-- **Admin God Mode** — User management, ban/unban toggles, campaign creator with Cloudinary media ingestion, real-time chat inbox with unread badges
+- **3-Tier Listing System** — token-draw polls, live-bid auctions, and social posts under a unified Mongoose model
+- **Real-Time WebSocket Layer** — Socket.io broadcasts bid updates and token grid locking to all clients instantly
+- **Role-Based Access Control** — Admin, Seller, and User roles across 6+ Express route modules with JWT-protected endpoints
+- **Cloudinary Integration** — image uploads for listings and seller-to-user chat, with consistent bid/chat history in MongoDB
 
-<a href="https://github.com/mohamad-shafeez/Auctin-House">
+<a href="https://github.com/mohamad-shafeez/Auction-House">
   <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
@@ -174,18 +202,17 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 ### 🌐 &nbsp; EventEase &mdash; AI-Augmented Event Management Platform
 
-> *Production-ready multi-role event platform. Flask + MySQL + Gemini AI managing the full event lifecycle — creation, booking, QR ticketing, and automated background tasks.*
+> *Multi-role event platform. Flask + MySQL + Gemini AI managing event creation, booking, QR ticketing, and automated background tasks.*
 
-![Flask](https://img.shields.io/badge/Flask_3.1-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E44AD?style=flat-square&logo=google&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/APScheduler-FF6F00?style=flat-square)
-![QR](https://img.shields.io/badge/QR%20Ticketing-000000?style=flat-square)
 
-- **Gemini AI Toolkit** — Auto-generates event descriptions, INR pricing with local market reasoning, and WhatsApp social copy
-- **Full Booking Pipeline** — Ticket booking → checkout → PDF/QR ticket generation → on-site check-in scanning
-- **Background Automation** — APScheduler cancels expired drafts, promotes waitlists, and syncs event statuses automatically
-- **Role Dashboards** — Creator analytics (revenue, fill rates), attendee bookmarks/reviews, admin moderation with AI content flagging
+- **Gemini AI Toolkit** — assists with event descriptions and pricing suggestions
+- **Booking Pipeline** — ticket booking, checkout, PDF/QR ticket generation, on-site check-in scanning
+- **Background Automation** — APScheduler handles expired draft cleanup and status syncing
+- **Role Dashboards** — creator, attendee, and admin views with RBAC-protected routes
 
 <a href="https://github.com/mohamad-shafeez/EventEase">
   <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
@@ -197,17 +224,16 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 ### 🗳️ &nbsp; VoteHub &mdash; Real-Time MERN Polling Platform
 
-> *Secure voting application with JWT auth, role-based admin controls, Chart.js result visualizations, and real-time platform-wide settings toggling — no redeploy needed.*
+> *Secure voting application with JWT auth, role-based admin controls, and result visualizations.*
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- First-registered user auto-assigned Admin; JWT + bcrypt auth with Axios interceptors
-- Admin toggles: enable/disable registration, open/close voting, update site name — all live, zero redeploy
-- Poll deletion cascades to all associated votes; Chart.js visualizations for live results
+- JWT + bcrypt authentication with role-based admin controls
+- Vote integrity enforced via compound unique index (`userId` + `pollId`) and MongoDB atomic operations preventing race conditions
+- Poll deletion cascades to associated votes; live results visualization
 
 <a href="https://github.com/mohamad-shafeez/VoteHub">
   <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
@@ -221,31 +247,36 @@ I enjoy working on systems that are fault-tolerant, event-driven, and optimized 
 
 ## 🛠️ &nbsp; `Technology Stack`
 
-### Languages
-Python • JavaScript • SQL • HTML • CSS
+**Languages**
+Java • Python • JavaScript • TypeScript • SQL
 
-### Backend
-Node.js • Express.js • Flask • REST APIs • Event-Driven Architecture • Multiprocessing
+**Backend**
+Spring Boot 3 • Spring Data JPA • Spring WebClient • Spring Actuator • Node.js • Express.js • Flask • REST APIs • Event-Driven Architecture • Multiprocessing
 
-### AI & Automation
-Ollama • Gemini API • Faster-Whisper • Silero VAD • Chroma • RAG • Prompt Engineering • Multi-Agent Systems
+**AI & Automation**
+Gemini API • Ollama • Faster-Whisper • Silero VAD • ChromaDB • Prompt Engineering • Semantic Search
 
-### Frontend
-React • Next.js • Tailwind CSS • PWA • Service Workers
+**Frontend**
+Next.js 14 • React • Tailwind CSS • PWA • Service Workers
 
-### Databases
-MongoDB • MySQL • SQLite • Firebase Firestore
+**Databases**
+PostgreSQL • MongoDB • MySQL • SQLite (WAL) • Firebase Firestore
 
-### Real-Time Systems
-Socket.io • WebSockets • SSE
+**DevOps**
+Docker • Docker Compose • Flyway • GitHub Actions • Maven
 
-### Tools & Platforms
+**Testing**
+JUnit 5 • Mockito • MockMvc
+
+**Real-Time Systems**
+Socket.io • WebSockets
+
+**Tools & Platforms**
 Git • Postman • Cloudinary • Render • Vercel • Firebase • TomTom API • ADB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-
 
 ## 📬 &nbsp; `Contact`
 

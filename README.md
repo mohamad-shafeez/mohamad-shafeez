@@ -91,9 +91,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 
 <br/>
 
-<details>
-<summary><b>Engineering details</b> (click to expand)</summary>
-
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Single-Pass Generation** | One structured prompt synthesizes all 12 artifacts (Dockerfile, Compose, CI/CD, K8s, Helm, Terraform, security review, code review, `.env.example`, deployment report, architecture docs, health scores) instead of 12 separate LLM calls — the change that fixed free-tier 429 errors |
@@ -104,7 +101,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 | **Tests** | JUnit 5 + MockMvc + Mockito suite covering the controller layer and JSON-to-DTO mapping |
 | **Client Experience** | Next.js 14 App Router + TypeScript frontend — file tree viewer, code panels, 0–100 health/security score meters, one-click ZIP export via JSZip |
 
-</details>
 
 > ⚠️ **Note on generated artifacts:** the Kubernetes manifests, Helm charts, and Terraform configs are AI-generated *output* for a user's target codebase — the platform itself runs as a Docker Compose stack (Spring Boot + PostgreSQL + Next.js), not on Kubernetes.
 
@@ -134,9 +130,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 
 <br/>
 
-<details>
-<summary><b>Engineering details</b> (click to expand)</summary>
-
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Process Isolation** | Four worker lanes (vision, coding, automation, swarm) run as separate processes at lowered OS priority (`IDLE` / `BELOW_NORMAL` / `NORMAL`); the main voice process is raised to `HIGH_PRIORITY_CLASS` |
@@ -150,7 +143,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 | **IPC Layer** | `multiprocessing.Queue()` message passing between the supervisor and worker processes (no shared state) |
 | **Safety Filters** | Regex-based prompt-injection detection and jailbreak/toxic-content response filtering applied around LLM calls |
 
-</details>
 
 <br/>
 
@@ -178,9 +170,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 
 <br/>
 
-<details>
-<summary><b>Engineering details</b> (click to expand)</summary>
-
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Validated Ingestion** | `POST /webhook` with Pydantic v2 schema validation and canonical payload hashing |
@@ -189,7 +178,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 | **Transactional DLQ** | A permanent failure and its dead-letter record (raw payload, normalized payload, attempt history) are written in a single transaction; inspected via an `app.dlq` CLI |
 | **Deterministic Testing** | **59 pytest tests** (unit + end-to-end) using an injectable destination adapter and sleeper, so failure paths run without real network or real waiting |
 
-</details>
 
 > ⚠️ **Scope note:** the destination is simulated, and the service is a reliability-pattern demonstration (no auth, not deployed).
 
@@ -215,9 +203,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 
 <br/>
 
-<details>
-<summary><b>Engineering details</b> (click to expand)</summary>
-
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Live Scanning** | Runs on a schedule via GitHub Actions; has discovered and tracked **90 real issues** since going live |
@@ -227,7 +212,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 | **Safety Boundaries** | Patch-path validation for AI-generated changes and secret scrubbing in alerts and dossiers |
 | **Tests** | 43 `unittest` tests with external APIs mocked |
 
-</details>
 
 > ⚠️ **Status:** evidence ingestion has run on real issues; the review, proposal, implementation and PR stages are unit-tested but have not yet been exercised end-to-end on a live job.
 
@@ -254,9 +238,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 
 <br/>
 
-<details>
-<summary><b>Engineering details</b> (click to expand)</summary>
-
 | 🏗️ Pillar | ⚙️ Implementation |
 | :--- | :--- |
 | **Slider-Weighted Safety Score** | Composite safety score on a 0–150 scale, driven by user-set risk tolerance and AQI/heat sensitivity |
@@ -266,7 +247,6 @@ I care most about how systems fail: bounded retries, safe state transitions, hum
 | **Admin Command Center** | Firebase ID-token–verified admin API with a system kill switch and Firestore audit logging |
 | **Offline Support** | Stale-while-revalidate service worker for PWA offline loading |
 
-</details>
 
 <br/>
 

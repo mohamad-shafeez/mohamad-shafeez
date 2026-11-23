@@ -3,6 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,30:051528,70:0a2a4a,100:00b4d8&height=220&section=header&text=Mohamad%20Shafeez&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Reliable%20Systems&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" alt="Mohamad Shafeez" />
 
 <strong>Backend engineer focused on reliable APIs, AI runtimes, and developer automation.</strong><br />
+<em>Fresher (BCA, 2026) · open to entry-level backend, full-stack, and applied AI systems roles.</em><br />
 Mangalore, India<br /><br />
 
 <a href="https://linkedin.com/in/mohamad-shafeez">
@@ -21,19 +22,6 @@ Mangalore, India<br /><br />
 
 ---
 
-## Toolbox
-
-| | |
-| :--- | :--- |
-| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
-| **Backend** | Spring Boot · FastAPI · Flask · Node.js · Fastify · REST APIs · Socket.io · Server-Sent Events |
-| **Data** | PostgreSQL · MongoDB · MySQL · SQLite |
-| **AI & Systems** | Gemini · Groq · Ollama · Faster-Whisper · ChromaDB · multiprocessing · process supervision |
-| **Infrastructure** | Docker · GitHub Actions · Flyway · Maven · Git · Linux · Windows |
-| **Frontend** | React · Next.js · Tailwind CSS |
-
----
-
 ## Flagship Systems
 
 <table>
@@ -44,6 +32,9 @@ Mangalore, India<br /><br />
 <p><strong>Race-proof team formation.</strong> Row locks, database constraints, and idempotency keys ensure exactly one person gets the last seat when fifty requests land at the same instant.</p>
 <p><code>TypeScript</code> · <code>Fastify</code> · <code>PostgreSQL</code> · <code>Server-Sent Events</code></p>
 <p><img src="https://img.shields.io/badge/tests-57%20unit-success?style=flat-square" alt="57 unit tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /> <a href="https://crewmesh.onrender.com"><img src="https://img.shields.io/badge/live-demo-2ea44f?style=flat-square" alt="Live demo" /></a></p>
+<!-- CI badge: replace WORKFLOW_FILE.yml with your workflow's file name, then uncomment
+<p><a href="https://github.com/mohamad-shafeez/CrewMesh/actions/workflows/WORKFLOW_FILE.yml"><img src="https://github.com/mohamad-shafeez/CrewMesh/actions/workflows/WORKFLOW_FILE.yml/badge.svg" alt="CI" /></a></p>
+-->
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/mohamad-shafeez/api-pipeline-fixer"><img src="assets/api-pipeline-swagger.png" alt="Resilient Integration Pipeline Swagger UI" width="100%" /></a>
@@ -60,6 +51,9 @@ Mangalore, India<br /><br />
 <p><strong>A reviewable DevOps starter generator.</strong> One LLM pass drafts 11 artifacts — Dockerfile, Compose, CI/CD, Kubernetes, Helm, Terraform, security and code reviews, environment example, deployment report, and architecture notes. Output is explicitly starter material, not deployment approval.</p>
 <p><code>Java 17</code> · <code>Spring Boot</code> · <code>Next.js</code> · <code>PostgreSQL</code></p>
 <p><img src="https://img.shields.io/badge/tests-4%20passing-success?style=flat-square" alt="4 tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /></p>
+<!-- Demo badge: add your video URL, then uncomment
+<p><a href="YOUR_DEMO_VIDEO_URL"><img src="https://img.shields.io/badge/demo-video-red?style=flat-square" alt="Demo video" /></a></p>
+-->
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/mohamad-shafeez/hermes-continuum"><img src="assets/hermes-timeline.png" alt="Hermes Continuum Timeline in the Hermes Desktop Console" width="100%" /></a>
@@ -104,15 +98,28 @@ That pattern shows up across the work above: PostgreSQL row locks and constraint
 
 ## Additional Projects
 
-- **Cipher OS** — a Windows-first local AI runtime with supervised worker processes, three-tier memory, and 176 persona prompts across 13 domains. Six contract tests cover the core memory, watchdog, skill-loading, and configuration paths. [Repository](https://github.com/mohamad-shafeez/Cipher-AI) · license not declared.
-- **SafeNav** — a health-aware travel-safety PWA with TomTom routing, live weather, and an owner-scoped Fernet-encrypted document vault. Three security tests cover encryption and owner isolation. [Repository](https://github.com/mohamad-shafeez/SafeNav) · license not declared.
-- **Auction House** — a real-time MERN auction and token-draw platform with server-verified Firebase-to-JWT authentication, authenticated Socket.io, and atomic bid/token updates. Four server tests cover the auth and CORS boundaries. [Repository](https://github.com/mohamad-shafeez/Auction-House) · MIT.
+- **Cipher OS** — a Windows-first local AI runtime with supervised worker processes, three-tier memory, and 176 persona prompts across 13 domains. Six contract tests cover the core memory, watchdog, skill-loading, and configuration paths. [Repository](https://github.com/mohamad-shafeez/Cipher-AI)
+- **SafeNav** — a health-aware travel-safety PWA with TomTom routing, live weather, and an owner-scoped Fernet-encrypted document vault. Three security tests cover encryption and owner isolation. [Repository](https://github.com/mohamad-shafeez/SafeNav)
+- **Auction House** — a real-time MERN auction and token-draw platform with server-verified Firebase-to-JWT authentication, authenticated Socket.io, and atomic bid/token updates. Four server tests cover the auth and CORS boundaries. [Repository](https://github.com/mohamad-shafeez/Auction-House) · MIT
+
+---
+
+## Toolbox
+
+| | |
+| :--- | :--- |
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
+| **Backend** | Spring Boot · FastAPI · Flask · Node.js · Fastify · REST APIs · Socket.io · Server-Sent Events |
+| **Data** | PostgreSQL · MongoDB · MySQL · SQLite |
+| **AI & Systems** | Gemini · Groq · Ollama · Faster-Whisper · ChromaDB · multiprocessing · process supervision |
+| **Infrastructure** | Docker · GitHub Actions · Flyway · Maven · Git · Linux · Windows |
+| **Frontend** | React · Next.js · Tailwind CSS |
 
 ---
 
 <div align="center">
 
-### Open to backend, full-stack, and applied AI systems roles.
+### Open to entry-level backend, full-stack, and applied AI systems roles.
 
 Mangalore, India
 

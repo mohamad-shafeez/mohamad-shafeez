@@ -2,8 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020810,30:051528,70:0a2a4a,100:00b4d8&height=220&section=header&text=Mohamad%20Shafeez&fontSize=58&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Backend%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Reliable%20Systems&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn" alt="Mohamad Shafeez" />
 
-<strong>Backend engineer building reliable APIs, AI runtimes, and developer automation.</strong><br />
-Mangalore, India · Open to Bengaluru / Remote India<br /><br />
+<strong>Backend engineer focused on reliable APIs, AI runtimes, and developer automation.</strong><br />
+Mangalore, India<br /><br />
 
 <a href="https://linkedin.com/in/mohamad-shafeez">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
@@ -18,6 +18,19 @@ Mangalore, India · Open to Bengaluru / Remote India<br /><br />
 </a>
 
 </div>
+
+---
+
+## Toolbox
+
+| | |
+| :--- | :--- |
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
+| **Backend** | Spring Boot · FastAPI · Flask · Node.js · Fastify · REST APIs · Socket.io · Server-Sent Events |
+| **Data** | PostgreSQL · MongoDB · MySQL · SQLite |
+| **AI & Systems** | Gemini · Groq · Ollama · Faster-Whisper · ChromaDB · multiprocessing · process supervision |
+| **Infrastructure** | Docker · GitHub Actions · Flyway · Maven · Git · Linux · Windows |
+| **Frontend** | React · Next.js · Tailwind CSS |
 
 ---
 
@@ -89,7 +102,7 @@ That pattern shows up across the work above: PostgreSQL row locks and constraint
 
 ---
 
-## Also Building
+## Additional Projects
 
 - **Cipher OS** — a Windows-first local AI runtime with supervised worker processes, three-tier memory, and 176 persona prompts across 13 domains. Six contract tests cover the core memory, watchdog, skill-loading, and configuration paths. [Repository](https://github.com/mohamad-shafeez/Cipher-AI) · license not declared.
 - **SafeNav** — a health-aware travel-safety PWA with TomTom routing, live weather, and an owner-scoped Fernet-encrypted document vault. Three security tests cover encryption and owner isolation. [Repository](https://github.com/mohamad-shafeez/SafeNav) · license not declared.
@@ -97,23 +110,11 @@ That pattern shows up across the work above: PostgreSQL row locks and constraint
 
 ---
 
-## Toolbox
-
-| | |
-| :--- | :--- |
-| **Backend** | Java · Spring Boot · Python · FastAPI · Flask · Node.js · Fastify |
-| **Data** | PostgreSQL · MongoDB · MySQL · SQLite |
-| **AI** | Gemini · Groq · Ollama · Faster-Whisper · ChromaDB |
-| **Infrastructure** | Docker · GitHub Actions · Flyway · Maven |
-| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
-
----
-
 <div align="center">
 
 ### Open to backend, full-stack, and applied AI systems roles.
 
-Mangalore, India · Bengaluru · Remote India
+Mangalore, India
 
 <a href="mailto:shafeezchappi18@gmail.com">Email</a> ·
 <a href="https://linkedin.com/in/mohamad-shafeez">LinkedIn</a> ·

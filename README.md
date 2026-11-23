@@ -22,6 +22,29 @@ Mangalore, India<br /><br />
 
 ---
 
+## About
+
+I build backend systems and applied AI tools with a focus on the failure path: schema validation, atomic state changes, idempotency, bounded retries, and durable recovery. My work spans Java/Spring Boot, Python/FastAPI, and Node.js/Fastify, backed by PostgreSQL, MongoDB, Docker, and GitHub Actions. I also build AI-integrated products using Gemini, Groq, and Ollama, with real test suites behind them.
+
+---
+
+## Toolbox
+
+| | |
+| :--- | :--- |
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
+| **Backend** | Spring Boot · FastAPI · Flask · Node.js · Express.js · Fastify · REST APIs · WebSockets (Socket.io) · Server-Sent Events · Pydantic |
+| **Data** | PostgreSQL · MongoDB · MySQL · SQLite (WAL) · Firebase Firestore · Spring Data JPA · Flyway migrations |
+| **AI & Systems** | Gemini · Groq · Ollama · Faster-Whisper · Silero VAD · ChromaDB · Semantic Search · Prompt Engineering · multiprocessing · process supervision |
+| **Security** | JWT · Firebase Authentication · RBAC · Argon2id · CSRF protection · Rate limiting · Fernet encryption · CORS allowlists |
+| **Reliability** | Idempotency keys · Row locks and transactions · Transactional outbox · Bounded retries with backoff · Dead-letter queues |
+| **Testing** | JUnit 5 · Mockito · MockMvc · pytest · CI integration, race, and E2E suites |
+| **Infrastructure** | Docker · Docker Compose · GitHub Actions · Maven · Git · Linux · Windows · Render · Vercel · Postman |
+| **Frontend** | React · Next.js · Tailwind CSS · Progressive Web Apps (Service Workers) |
+| **Core Concepts** | Data Structures & Algorithms · OOP · API Design · Database Design · Concurrency |
+
+---
+
 ## Flagship Systems
 
 <table>
@@ -29,7 +52,8 @@ Mangalore, India<br /><br />
 <td width="50%" valign="top">
 <a href="https://github.com/mohamad-shafeez/CrewMesh"><img src="assets/crewmesh-team-board.png" alt="CrewMesh live team board" width="100%" /></a>
 <h3><a href="https://github.com/mohamad-shafeez/CrewMesh">CrewMesh</a></h3>
-<p><strong>Race-proof team formation.</strong> Row locks, database constraints, and idempotency keys ensure exactly one person gets the last seat when fifty requests land at the same instant.</p>
+<p><strong>Race-proof team formation.</strong> Row locks, database constraints, and idempotency keys ensure exactly one person gets the last seat when fifty requests land at the same instant (one success, 49 clean conflicts).</p>
+<p>Transactional outbox with live SSE updates, Argon2id sessions, CSRF protection, and rate limits. Integration, race, and E2E suites run in CI against PostgreSQL 16.</p>
 <p><code>TypeScript</code> · <code>Fastify</code> · <code>PostgreSQL</code> · <code>Server-Sent Events</code></p>
 <p><img src="https://img.shields.io/badge/tests-57%20unit-success?style=flat-square" alt="57 unit tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /> <a href="https://crewmesh.onrender.com"><img src="https://img.shields.io/badge/live-demo-2ea44f?style=flat-square" alt="Live demo" /></a></p>
 <!-- CI badge: replace WORKFLOW_FILE.yml with your workflow's file name, then uncomment
@@ -39,7 +63,8 @@ Mangalore, India<br /><br />
 <td width="50%" valign="top">
 <a href="https://github.com/mohamad-shafeez/api-pipeline-fixer"><img src="assets/api-pipeline-swagger.png" alt="Resilient Integration Pipeline Swagger UI" width="100%" /></a>
 <h3><a href="https://github.com/mohamad-shafeez/api-pipeline-fixer">Resilient Integration Pipeline</a></h3>
-<p><strong>Webhook ingestion that survives failure.</strong> Schema validation, canonical hashing, atomic idempotency, classified retries with backoff, and a transactional dead-letter queue. The downstream destination is a disclosed simulator.</p>
+<p><strong>Webhook ingestion that survives failure.</strong> Pydantic v2 validation, canonical SHA-256 hashing, atomic idempotency claims, classified retries with exponential backoff, and a transactional dead-letter queue.</p>
+<p>Duplicate deliveries return the stored result instead of reprocessing. Injectable destination and sleeper adapters keep tests fast and deterministic. The downstream destination is a disclosed simulator.</p>
 <p><code>Python</code> · <code>FastAPI</code> · <code>SQLite</code> · <code>pytest</code></p>
 <p><img src="https://img.shields.io/badge/tests-59%20passing-success?style=flat-square" alt="59 tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /></p>
 </td>
@@ -48,8 +73,9 @@ Mangalore, India<br /><br />
 <td width="50%" valign="top">
 <a href="https://github.com/mohamad-shafeez/ai-devops-assistant"><img src="assets/ai-devops-hero.png" alt="AI DevOps Assistant landing page" width="100%" /></a>
 <h3><a href="https://github.com/mohamad-shafeez/ai-devops-assistant">AI DevOps Assistant</a></h3>
-<p><strong>A reviewable DevOps starter generator.</strong> One LLM pass drafts 11 artifacts — Dockerfile, Compose, CI/CD, Kubernetes, Helm, Terraform, security and code reviews, environment example, deployment report, and architecture notes. Output is explicitly starter material, not deployment approval.</p>
-<p><code>Java 17</code> · <code>Spring Boot</code> · <code>Next.js</code> · <code>PostgreSQL</code></p>
+<p><strong>A reviewable DevOps starter generator.</strong> One LLM pass drafts 11 artifacts: Dockerfile, Compose, CI/CD, Kubernetes, Helm, Terraform, security and code reviews, environment example, deployment report, and architecture notes. Output is explicitly starter material, not deployment approval.</p>
+<p>Four-attempt exponential backoff on HTTP 429/503 with automatic Groq failover. Layered Spring architecture with Spring Data JPA, Flyway migrations, and standardized JSON error responses. Runs as a single-command Docker Compose stack.</p>
+<p><code>Java 17</code> · <code>Spring Boot</code> · <code>Next.js</code> · <code>PostgreSQL</code> · <code>Docker Compose</code></p>
 <p><img src="https://img.shields.io/badge/tests-4%20passing-success?style=flat-square" alt="4 tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /></p>
 <!-- Demo badge: add your video URL, then uncomment
 <p><a href="YOUR_DEMO_VIDEO_URL"><img src="https://img.shields.io/badge/demo-video-red?style=flat-square" alt="Demo video" /></a></p>
@@ -59,6 +85,7 @@ Mangalore, India<br /><br />
 <a href="https://github.com/mohamad-shafeez/hermes-continuum"><img src="assets/hermes-timeline.png" alt="Hermes Continuum Timeline in the Hermes Desktop Console" width="100%" /></a>
 <h3><a href="https://github.com/mohamad-shafeez/hermes-continuum">Hermes Continuum</a></h3>
 <p><strong>A continuity layer for the Hermes Agent.</strong> Nine cooperating systems on one append-only event spine: reviewed memory, provenance, encrypted checkpoints, goal integrity, side-effect previews, retry circuits, and trace distillation.</p>
+<p>12 tools, 11 hooks, and 42 Console/API routes on a 25-table schema.</p>
 <p><code>Python</code> · <code>SQLite</code> · <code>Hermes Agent</code> · <code>Desktop Console</code></p>
 <p><img src="https://img.shields.io/badge/tests-184%20passing-success?style=flat-square" alt="184 tests" /> <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" /> <img src="https://img.shields.io/badge/upstream%20PR-merged-6f42c1?style=flat-square" alt="Upstream PR merged" /></p>
 </td>
@@ -92,28 +119,23 @@ flowchart LR
   F -->|permanent| H[(Dead-letter / review)]
 ```
 
+**In short:** nothing is processed twice, nothing is retried forever, and nothing fails silently.
+
 That pattern shows up across the work above: PostgreSQL row locks and constraints in CrewMesh, transactional idempotency and a dead-letter table in the pipeline, server-derived auth in Auction House, and deterministic policy plus explicit approval gates in Hermes Continuum.
 
 ---
 
 ## Additional Projects
 
-- **Cipher OS** — a Windows-first local AI runtime with supervised worker processes, three-tier memory, and 176 persona prompts across 13 domains. Six contract tests cover the core memory, watchdog, skill-loading, and configuration paths. [Repository](https://github.com/mohamad-shafeez/Cipher-AI)
-- **SafeNav** — a health-aware travel-safety PWA with TomTom routing, live weather, and an owner-scoped Fernet-encrypted document vault. Three security tests cover encryption and owner isolation. [Repository](https://github.com/mohamad-shafeez/SafeNav)
-- **Auction House** — a real-time MERN auction and token-draw platform with server-verified Firebase-to-JWT authentication, authenticated Socket.io, and atomic bid/token updates. Four server tests cover the auth and CORS boundaries. [Repository](https://github.com/mohamad-shafeez/Auction-House) · MIT
+- **Cipher OS** — an event-driven, Windows-first local AI runtime built on Python multiprocessing. LLM inference runs in a dedicated worker process while a high-priority voice interface stays responsive. A watchdog process handles heartbeat checks, deadlock detection, and automatic respawn. Three-tier memory (volatile working memory, SQLite WAL episodic store, ChromaDB vector store for semantic search) feeds every inference call. Voice pipeline uses Silero VAD and Faster-Whisper. 176 persona prompts across 13 domains, a modular plugin framework with startup-time skill discovery, and Android ADB voice-triggered app launches. Six contract tests cover the core memory, watchdog, skill-loading, and configuration paths. [Repository](https://github.com/mohamad-shafeez/Cipher-AI)
+- **SafeNav** — a health-aware travel-safety PWA. A Flask scoring engine (0–150 scale) with slider-driven risk tolerance combines live TomTom traffic incidents and OpenWeather AQI/heat index, then feeds that data into structured Gemini prompts for context-aware safety briefings. Owner-scoped, Fernet-encrypted document vault with PyPDF2 extraction and Gemini Vision OCR; Firebase bearer auth, a CORS allowlist, offline-first Service Worker caching, and Firestore trip history. Three security tests cover encryption and owner isolation. [Repository](https://github.com/mohamad-shafeez/SafeNav)
+- **Auction House** — a real-time MERN auction and token-draw platform with Admin, Seller, and User role-based views. Server-verified Firebase-to-JWT authentication with server-derived roles, authenticated Socket.io for live bid broadcasting and instant leaderboards, atomic bid/token updates, MongoDB bid and chat history, and Cloudinary image delivery. Four server tests cover the auth and CORS boundaries. [Repository](https://github.com/mohamad-shafeez/Auction-House) · MIT
 
 ---
 
-## Toolbox
+## Education
 
-| | |
-| :--- | :--- |
-| **Languages** | Java · Python · TypeScript · JavaScript · SQL |
-| **Backend** | Spring Boot · FastAPI · Flask · Node.js · Fastify · REST APIs · Socket.io · Server-Sent Events |
-| **Data** | PostgreSQL · MongoDB · MySQL · SQLite |
-| **AI & Systems** | Gemini · Groq · Ollama · Faster-Whisper · ChromaDB · multiprocessing · process supervision |
-| **Infrastructure** | Docker · GitHub Actions · Flyway · Maven · Git · Linux · Windows |
-| **Frontend** | React · Next.js · Tailwind CSS |
+**Bachelor of Computer Applications (BCA)**, Software Development & Web Design — Srinivas University, Mangaluru, Karnataka · Aug 2023 – May 2026
 
 ---
 
